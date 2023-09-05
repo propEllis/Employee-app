@@ -1,0 +1,11 @@
+C:\Kode\Employee-app\Entitiess\bin\Debug\net6.0\Entitiess.deps.json
+C:\Kode\Employee-app\Entitiess\bin\Debug\net6.0\Entitiess.dll
+C:\Kode\Employee-app\Entitiess\bin\Debug\net6.0\Entitiess.pdb
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.AssemblyInfoInputs.cache
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.AssemblyInfo.cs
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.csproj.CoreCompileInputs.cache
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.dll
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\refint\Entitiess.dll
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\Entitiess.pdb
+C:\Kode\Employee-app\Entitiess\obj\Debug\net6.0\ref\Entitiess.dll
