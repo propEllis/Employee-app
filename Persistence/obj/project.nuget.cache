@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cI48Yu3EAdZEaLyzO7c/NhsjRVIDeNi5freqQw5AEjIejnE04HkE++BPDS78eQcjTpldkXP7ttKC08+vcH8O+g==",
+  "dgSpecHash": "1seaLaNIItxdTL9AT7i68HEaJCpB899J3hLz12VJ/XCxjMLv71gKGQws6RlsmPlcvnQP+bcxYD4/PJoUYVdJ5Q==",
   "success": true,
   "projectFilePath": "C:\\Kode\\Employee-app\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\eliso\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\eliso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\eliso\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\eliso\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\eliso\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\eliso\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\eliso\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.21\\microsoft.entityframeworkcore.6.0.21.nupkg.sha512",

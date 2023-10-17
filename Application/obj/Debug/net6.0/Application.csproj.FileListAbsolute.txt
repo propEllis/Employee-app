@@ -1,0 +1,17 @@
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Application.deps.json
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Application.dll
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Application.pdb
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Entities.dll
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Persistence.dll
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Entities.pdb
+C:\Kode\Employee-app\Application\bin\Debug\net6.0\Persistence.pdb
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.dll
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\Application.pdb
+C:\Kode\Employee-app\Application\obj\Debug\net6.0\ref\Application.dll

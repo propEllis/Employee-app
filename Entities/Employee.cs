@@ -2,10 +2,10 @@
 {
     public class Employee
     {
-        public int Id { get; set; }
-        public String? Fornavn { get; set; }
-        public String? Etternavn { get; set; }
-        public String? Telefonnr { get; set; }
-        public String? Adresse { get; set; }
+        public int EmployeeId { get; set; }
+        public string Fornavn { get; set; } = string.Empty;
+        public string Etternavn { get; set; } = string.Empty;
+        public string Telefonnr { get; set; } = string.Empty;
+        public string Adresse { get; set; } = string.Empty;
     }
 }
