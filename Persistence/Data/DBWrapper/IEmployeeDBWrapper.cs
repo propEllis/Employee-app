@@ -8,5 +8,6 @@ namespace Persistence.Data.DBWrapper
         Employee GetEmployeeById(int id);
         Employee SaveEmployee(Employee employee);
         bool DeleteEmployee(int id);
+        Employee UpdateEmployee(Employee employee);
     }
 }

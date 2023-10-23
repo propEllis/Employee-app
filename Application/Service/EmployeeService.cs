@@ -12,6 +12,7 @@ namespace Application.Service
         EmployeeDto HentEmployeeFraId(int id);
         EmployeeDto LagreEmployee(CreateEmployeeDto createEmployeeDto);
         bool SlettEmployee(int id);
+        EmployeeDto OppdaterEmployee(EmployeeDto employee);
     }
 
     public class EmployeeService : IEmployeeService
@@ -47,6 +48,29 @@ namespace Application.Service
                 Telefonnr = createEmployeeDto.PhoneNumber
             };
             var response = _employeeDBWrapper.SaveEmployee(employeeObj);
+
+            var employeeDtoObj = new EmployeeDto()
+            {
+                Id = response.EmployeeId,
+                FirstName = response.Fornavn,
+                LastName = response.Etternavn,
+                Address = response.Adresse,
+                PhoneNumber = response.Telefonnr
+            };
+            return employeeDtoObj;
+        }
+
+        public EmployeeDto OppdaterEmployee(EmployeeDto employee)
+        {
+            var employeeOppdateres = new Employee()
+            {
+                EmployeeId = employee.Id,
+                Fornavn = employee.FirstName,
+                Etternavn = employee.LastName,
+                Adresse = employee.Address,
+                Telefonnr = employee.PhoneNumber
+            };
+            var response = _employeeDBWrapper.UpdateEmployee(employeeOppdateres);
 
             var employeeDtoObj = new EmployeeDto()
             {

@@ -93,5 +93,13 @@ namespace Persistence.Data.DBWrapper
             _employeeContext.SaveChanges();
             return employee;
         }
+
+        public Employee UpdateEmployee(Employee employee)
+        {
+            _employeeContext.Update(employee);
+            _employeeContext.SaveChanges();
+            return employee;
+
+        }
     }
 }

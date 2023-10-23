@@ -39,6 +39,11 @@ namespace API.Controllers
             return _employeeService.SlettEmployee(id);
             
         }
+        [HttpPut]
+        public EmployeeDto OppdaterEmployeeObj(EmployeeDto employeeDto) 
+        {
+            return _employeeService.OppdaterEmployee(employeeDto);
+        }
     }
 
 
