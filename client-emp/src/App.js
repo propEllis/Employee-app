@@ -43,18 +43,21 @@ const App = () => {
   // Array.map function allows us to apply the same function to every value in an array and produce a new array containing the results. Each value in the original array maps to a corresponding value in the new array.
   // Array.map method works in the same way as a mathematical function. It iterates over the array that calls the method and returns a new array, with each value from the calling array mapped to a corresponding new value, based on a mapping function.
 
+  //https://hygraph.com/blog/react-table
+
   return (
     <div className="AnsattEllis min-w-fit">
       <div class="container mx-auto">
         <div class="flex flex-col lg:flex-row items-center justify-between">
           <h2 class="text-center text-6xl tracki font-bold">
-            Ellis disipler - verdensherredømme neste!
+            Ellis disipler
           </h2>
         </div>
       </div>
       <div>
         <table
           style={{ color: "#fff" }}
+          // style={{ color: "#2d2d2f" }}
           className="min-w-full text-xs"
           id="ansatte"
         >
